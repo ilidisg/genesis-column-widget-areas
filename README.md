@@ -18,3 +18,5 @@ https://genesistutorials.com/visual-hook-guide/layouts/fwc/
 Reading this blog post will help you add the code in your website.
 
 Note: You will need the CSS for the Genesis column classes in your style.css file. This should be there for any Genesis theme. You will only need to add it if you've removed it in the past.
+
+https://gist.github.com/studiopress/5700003
