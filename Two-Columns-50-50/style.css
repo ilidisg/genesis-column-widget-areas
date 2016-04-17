@@ -1,0 +1,22 @@
+/* Featured widgets
+--------------------------------------------- */
+
+.featured-widgets {
+	margin: 40px 0;
+}
+
+/*.featured-left {
+	
+}
+
+.featured-right {
+	
+}*/
+
+@media only screen and (max-width: 800px) {
+
+	.featured-left {
+		margin-bottom: 40px;
+	}
+
+}
