@@ -1,3 +1,6 @@
+<?php
+//* Do NOT include the opening php tag shown above. Copy only the code shown below.
+
 //* Register widget areas
 genesis_register_sidebar( array(
 	'id'			=> 'featured-left',
